@@ -1,0 +1,25 @@
+{
+  "name": "ymbmodule12challenge",
+  "version": "1.0.0",
+  "description": "Module 12 Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/continuouslearner24/YMBModule12Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/continuouslearner24/YMBModule12Challenge/issues"
+  },
+  "homepage": "https://github.com/continuouslearner24/YMBModule12Challenge#readme",
+  "dependencies": {
+    "inquirer": "^10.1.8",
+    "nodemon": "^3.1.4",
+    "pg": "^8.12.0"
+  }
+}
